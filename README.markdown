@@ -1,4 +1,4 @@
-//Modifying this file to learn git commands
+//Modifying this file to learn git commands, playing with add command
 
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
